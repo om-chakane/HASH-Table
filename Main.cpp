@@ -10,8 +10,8 @@ vector<int> keysVector;
 // This is the main function that will be called from the command line
 
 int main(){
-    cout << "!! CHORD DHT Implementation !!" << endl;
-    cout << "- By Sanjana Patil" << endl;
+    cout << "!! Distributed Hash Table Implementation !!" << endl;
+    cout << "- Om Chakane (Fight On!)" << endl;
 
     Node n0 = Node(0);
     Node n1 = Node(30);
